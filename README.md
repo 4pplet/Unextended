@@ -20,6 +20,12 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 - M2 screws for daughter board and cover plate
 - Alps switches, stabs and AEK-keycaps
 
+## Specs:
+- 60%
+- Bakeneko V3 rubber worm/o-ring mount
+- Compatible projects: Cyber60 and Waffling60
+- 5.4 degree typing angle
+
 ## Todo:
 - Make releases for PCB and plates
 - Verify PCB designs
@@ -41,7 +47,7 @@ I have made three different plate designs
 - P2: 2021-11-18 - Alu CNC proto from PCB way. Slimmed down bezels and added battery cover.
 - V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
 
-## Pics of initial proto:
+## Pics of initial alu proto (P2):
 ![alt text](./readme-images/initial_proto_1.jpg "Initial proto 1")
 ![alt text](./readme-images/initial_proto_2.jpg "Initial proto 2")
 
