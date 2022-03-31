@@ -1,13 +1,13 @@
 
 # Unextended keyboard
 
-Welcome to the unextended keyboard project. The goal of the project is to make a ZMK powered wireless 60% keyboard that targets ALPS switches and specifically the keycaps from Apple Extended Keyboards.
+Welcome to the **Unextended Keyboard** project. The goal of the project is to make a ZMK powered wireless 60% keyboard that targets ALPS switches and specifically the keycaps from Apple Extended Keyboards.
 
 ## Disclaimer:
 I am not a case designer, this is just a personal project for me to play with 3D CAD. There are likely many best practices that are missing in this project and there are likely many improvements that can be made for better machinability. See this as a work in progress or something to get inspiration from, rather than something production ready.
 
 ## Status:
-A prototype has been made of the current step mode. The PCBs in this repo are currently untested. For the prototype, a cyber60 PCB with the USB-port removed was used. The PCBs share the same pinout and basic functions as the Cyber60 Revision C/D, so the same code can be used for firmware and bootloader if needed. For a QMK based keyboard build, the Waffling60 alps PCB can be used with the USB port removed. PCBs available here: https://4pplet.com/products/waffling60
+A prototype has been made of the current step model. The PCBs in this repo are currently untested. For the prototype, a cyber60 PCB with the USB-port removed was used. The PCBs share the same pinout and basic functions as the Cyber60 Revision C/D, so the same code can be used for firmware and bootloader if needed. For a QMK based keyboard build, the Waffling60 alps PCB can be used with the USB port removed. PCBs available here: https://4pplet.com/products/waffling60
 
 ## Keyboard Parts:
 - Case
