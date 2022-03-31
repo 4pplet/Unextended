@@ -1,0 +1,12 @@
+
+PCB/ANSI/__Previews/*
+PCB/ANSI/History/*
+PCB/ISO/__Previews/*
+PCB/ISO/History/*
+PCB/ANSI/Project Logs for unextended_ANSI/*
+PCB/ISO/Project Logs for unextended_ISO/*
+*.LOG
+PCB/ISO/Project Outputs for alps-cherry/*
+PCB/ANSI/Project Outputs for alps-cherry/*
+Cover/History/*
+Plate/History/*
