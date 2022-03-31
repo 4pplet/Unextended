@@ -14,6 +14,8 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 - PCB + C1 or C3 compatible daughterboard
 - 3.7v single cell lipo/liion battery with a 2-pin JST PH connector (check polarity on PCB)
 - Plate
+- SKUF feet
+- O-ring (OD 3.5-3.55MM, Length 175-185mm)
 - Cover plate for battery and daughterboard
 - M2 screws for daughter board and cover plate
 - Alps switches, stabs and AEK-keycaps
