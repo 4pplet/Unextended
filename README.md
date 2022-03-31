@@ -37,7 +37,9 @@ I have made three different plate designs
 - ANSI layout with split r-shift, split space and split backspace (this is what I'm personally using)
 
 ## Revisions:
-- V1: Second prototype of the case
+- P1: 2021-09-20 - 3D printed concept with a bit wider bezels
+- P2: 2021-11-18 - Alu CNC proto from PCB way. Slimmed down bezels and added battery cover.
+- V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
 
 ## Pics of initial proto:
 ![alt text](./readme-images/initial_proto_1.jpg "Initial proto 1")
