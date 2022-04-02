@@ -16,9 +16,10 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 - Plate
 - SKUF feet
 - O-ring (OD 3.5-3.55MM, Length 175-185mm)
-- Cover plate for battery and daughterboard
+- Cover plate for battery and daughterboard (0.6mm FR4 was used for the protos)
 - M2 screws for daughter board and cover plate
 - Alps switches, stabs and AEK-keycaps
+- 3.7V LiPo Battery (a 3mm thick, 303759 750mAh battery was used for protos: https://www.aliexpress.com/item/33019120350.html)
 
 ## Specs:
 - 60%
