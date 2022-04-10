@@ -29,7 +29,7 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 
 ## Todo:
 - Make releases for PCB and plates
-- Verify PCB designs
+- Verify PCB designs and implement ZMK (currently, I'd recommend to use the cyber60 for this, untill the undextended PCBs are implemented and tested)
 - Overhaul the general design for better machinability.
 
 # Layout support ANSI:
