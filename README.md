@@ -49,7 +49,8 @@ I have made three different plate designs
 - V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
 
 ## Pics of initial alu proto (P2):
-![alt text](./readme-images/initial_proto_1.jpg "Initial proto 1")
-![alt text](./readme-images/initial_proto_2.jpg "Initial proto 2")
+![alt text](./readme-images/initial_proto_1.jpg "Initial proto")
+![alt text](./readme-images/initial_proto_2.jpg "Initial proto")
+![alt text](./readme-images/initial_proto_3.jpg "Initial proto")
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
