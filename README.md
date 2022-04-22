@@ -48,9 +48,13 @@ I have made three different plate designs
 - P2: 2021-11-18 - Alu CNC proto from PCB way. Slimmed down bezels and added battery cover.
 - V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
 
+## Pic of initial 3D proto (P1):
+3d_print
+![alt text](./readme-images/3d_print.jpg "Initial proto print")
+
 ## Pics of initial alu proto (P2):
-![alt text](./readme-images/initial_proto_1.jpg "Initial proto")
-![alt text](./readme-images/initial_proto_2.jpg "Initial proto")
-![alt text](./readme-images/initial_proto_3.jpg "Initial proto")
+![alt text](./readme-images/initial_proto_1.jpg "Initial proto CNC")
+![alt text](./readme-images/initial_proto_2.jpg "Initial proto CNC")
+![alt text](./readme-images/initial_proto_3.jpg "Initial proto CNC")
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
