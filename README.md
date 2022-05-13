@@ -24,7 +24,7 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 ## Specs:
 - 60%
 - Bakeneko V3 rubber worm/o-ring mount
-- Compatible projects: Cyber60 and Waffling60
+- Compatible projects: Cyber60 and Waffling60 (USB-port need to be unmounted or desoldered to fit)
 - 5.4 degree typing angle
 
 ## Todo:
