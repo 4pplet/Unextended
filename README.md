@@ -7,7 +7,7 @@ Welcome to the **Unextended Keyboard** project. A 60% keyboard that targets ALPS
 I am not a case designer, this is just a personal project for me to play with 3D CAD. There are likely many best practices that are missing in this project and there are likely many improvements that can be made for better machinability. See this as a work in progress or something to get inspiration from, rather than something production ready.
 
 ## Status:
-A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the FE-step model by Goije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the FE-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be uses in both V1 and FE cases.
+A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the FE-step model by Gaoije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the FE-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be uses in both V1 and FE cases.
 
 ## Keyboard Parts:
 - Case
