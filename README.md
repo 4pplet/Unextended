@@ -1,13 +1,13 @@
 
 # Unextended keyboard
 
-Welcome to the **Unextended Keyboard** project. The goal of the project is to make a ZMK powered wireless 60% keyboard that targets ALPS switches and specifically the keycaps from Apple Extended Keyboards.
+Welcome to the **Unextended Keyboard** project. A 60% keyboard that targets ALPS switches and specifically the keycaps from Apple Extended Keyboards.
 
 ## Disclaimer:
 I am not a case designer, this is just a personal project for me to play with 3D CAD. There are likely many best practices that are missing in this project and there are likely many improvements that can be made for better machinability. See this as a work in progress or something to get inspiration from, rather than something production ready.
 
 ## Status:
-A prototype has been made of the current step model. The PCBs in this repo are currently untested. For the prototype, a cyber60 PCB with the USB-port removed was used. The PCBs share the same pinout and basic functions as the Cyber60 Revision C/D, so the same code can be used for firmware and bootloader if needed. For a QMK based keyboard build, the Waffling60 alps PCB can be used with the USB port removed. PCBs available here: https://4pplet.com/products/waffling60
+A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the V2-step model by Goije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the V2-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be uses in both V1 and V2 cases.
 
 ## Keyboard Parts:
 - Case
@@ -24,29 +24,14 @@ A prototype has been made of the current step model. The PCBs in this repo are c
 ## Specs:
 - 60%
 - Bakeneko V3 rubber worm/o-ring mount
-- Compatible projects: Cyber60 and Waffling60 (USB-port need to be unmounted or desoldered to fit)
+- Compatible projects: Cyber60, Waffling60 and AEKISO60 (USB-port need to be unmounted or desoldered to fit)
 - 5.4 degree typing angle
-
-## Todo:
-- Make releases for PCB and plates
-- Verify PCB designs and implement ZMK (currently, I'd recommend to use the cyber60 for this, untill the undextended PCBs are implemented and tested)
-- Overhaul the general design for better machinability.
-
-# Layout support ANSI:
-![alt text](./readme-images/layout_support_ANSI.jpg "Layout support ANSI")
-# Layout support ISO:
-![alt text](./readme-images/layout_support_ISO.jpg "Layout support ISO")
-
-## Comments on plates:
-I have made three different plate designs
-- OG ANSI layout
-- OG ISO layout
-- ANSI layout with split r-shift, split space and split backspace (this is what I'm personally using)
 
 ## Revisions:
 - P1: 2021-09-20 - 3D printed concept with a bit wider bezels
 - P2: 2021-11-18 - Alu CNC proto from PCB way. Slimmed down bezels and added battery cover.
 - V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
+- V2: 2022-09-17 - Reworked case by Laminar, adding a weight and removing channel for battery. This version is not intended for use with battery.
 
 ## Pic of initial 3D proto (P1):
 3d_print
