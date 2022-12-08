@@ -42,4 +42,8 @@ A V1 prototype has been made by PCBWay of the current V1-step model and a full w
 ![alt text](./readme-images/initial_proto_2.jpg "Initial proto CNC")
 ![alt text](./readme-images/initial_proto_3.jpg "Initial proto CNC")
 
+## Pics of mini GB of Unextended FE:
+![alt text](./readme-images/FE_PC1.jpg "Mini GB FE")
+![alt text](./readme-images/FE_PC2.jpg "Mini GB FE")
+
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
