@@ -7,19 +7,19 @@ Welcome to the **Unextended Keyboard** project. A 60% keyboard that targets ALPS
 I am not a case designer, this is just a personal project for me to play with 3D CAD. There are likely many best practices that are missing in this project and there are likely many improvements that can be made for better machinability. See this as a work in progress or something to get inspiration from, rather than something production ready.
 
 ## Status:
-A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the FE-step model by Gaoije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the FE-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be uses in both V1 and FE cases.
+A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the FE-step model by Gaoije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the FE-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be used in both V1 and FE cases.
 
 ## Keyboard Parts:
 - Case
 - PCB + C1 or C3 compatible daughterboard
-- 3.7v single cell lipo/liion battery with a 2-pin JST PH connector (check polarity on PCB)
+- 3.7v single cell lipo/liion battery with a 2-pin JST PH connector (check polarity on PCB) if wireless.
 - Plate
 - SKUF feet
 - O-ring (OD 3.5-3.55MM, Length 175-185mm)
-- Cover plate for battery and daughterboard (0.6mm FR4 was used for the protos)
-- M2 screws for daughter board and cover plate
+- Cover plate for battery and daughterboard (0.6mm FR4 was used for the protos) for V1, not strictly needed.
+- M2 screws for daughter board and cover plate.
 - Alps switches, stabs and AEK-keycaps
-- 3.7V LiPo Battery (a 3mm thick, 303759 750mAh battery was used for protos: https://www.aliexpress.com/item/33019120350.html)
+- 3.7V LiPo Battery (a 3mm thick, 303759 750mAh battery was used for protos: https://www.aliexpress.com/item/33019120350.html) if wireless.
 
 ## Specs:
 - 60%
