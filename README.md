@@ -33,7 +33,8 @@ A V1 prototype has been made by PCBWay of the current V1-step model and a full w
 - P1: 2021-09-20 - 3D printed concept with a bit wider bezels
 - P2: 2021-11-18 - Alu CNC proto from PCB way. Slimmed down bezels and added battery cover.
 - V1: 2022-01-23 - Second prototype of the case. Changed to V3 Bakeneko mounting posts and recessed and moved down the daughterboard slightly. PCBWay had issues tapping the screw holes closest to the edge for the daugheter board in P2.
-- FE: 2022-09-17 - Reworked case by Laminar, adding a weight and removing channel for battery. This version is not intended for use with a internal battery.
+- FE V1: 2022-09-17 - Reworked case by Laminar, adding a weight and removing channel for battery. This version is not intended for use with a internal battery.
+- FE Standard V1: 2022-12-16 - Reworking the case to a slimmer version intended for M0116, M0118, NeXT and IIc keycaps.
 
 ## Pic of initial 3D proto (P1):
 3d_print
