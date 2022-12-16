@@ -36,16 +36,19 @@ A V1 prototype has been made by PCBWay of the current V1-step model and a full w
 - FE V1: 2022-09-17 - Reworked case by Laminar, adding a weight and removing channel for battery. This version is not intended for use with a internal battery.
 - FE Standard V1: 2022-12-16 - Reworking the case to a slimmer version intended for M0116, M0118, NeXT and IIc keycaps.
 
-## Pic of initial 3D proto (P1):
+## Initial 3D proto (P1):
+SLA print from PCBWay
 3d_print
 ![alt text](./readme-images/3d_print.jpg "Initial proto print")
 
-## Pics of initial alu proto (P2):
+## Initial alu proto (P2):
+CNCd ALU from PCBWay
 ![alt text](./readme-images/initial_proto_1.jpg "Initial proto CNC")
 ![alt text](./readme-images/initial_proto_2.jpg "Initial proto CNC")
 ![alt text](./readme-images/initial_proto_3.jpg "Initial proto CNC")
 
 ## Pics of mini GB of Unextended FE:
+CNCd PC from Gaojie
 ![alt text](./readme-images/FE_PC1.jpg "Mini GB FE")
 ![alt text](./readme-images/FE_PC2.jpg "Mini GB FE")
 
