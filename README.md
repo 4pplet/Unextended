@@ -26,9 +26,11 @@ I have also done a slimmer version, called Unextended Standard. This version is 
 - 3.7V LiPo Battery (a 3mm thick, 303759 750mAh battery was used for protos: https://www.aliexpress.com/item/33019120350.html) if wireless.
 
 ## Specs:
-- 60%
+- V1 and FE: 60%, Standard: 55%
 - Bakeneko V3 rubber worm/o-ring mount
-- Compatible projects: Cyber60, Waffling60 and AEKISO60 (USB-port need to be unmounted or desoldered to fit)
+- Compatible projects: 
+  - V1 and FE: Cyber60, Waffling60 and AEKISO60 (USB-port need to be unmounted or desoldered to fit)
+  - Standard: Unextended Standard PCB
 - 5.4 degree typing angle
 
 ## Revisions:
