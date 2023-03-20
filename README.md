@@ -11,7 +11,7 @@ I am not a case designer, this is just a personal project for me to play with 3D
 ## Status:
 A V1 prototype has been made by PCBWay of the current V1-step model and a full wireless build have been made with a Cyber60 PCB. A mini-GB has been completed using the FE-step model by Gaoije in both PC and Aluminium and a full wired build have been made with a AEKISO60. For wireless builds I recommend the V1-model and Cyber 60 PCB. For wired builds I recommend the FE-model and either the Waffling60 Alps or the AEKISO60. MX builds can also be used in both V1 and FE cases.
 
-I have also done a slimmer version, called Unextended Standard. This version is designed for use with M0116 or M0118 keycaps and the Unextended Standard PCB: https://github.com/4pplet/Unextended-Standard-PCB. Note: The Standard version of the case is not 60% and neighter is the Unextended Standard PCB. For a 60% build, use the Unextended V1 or FE and a 60% PCB (like the waffling60 alps or aekiso60).
+I have also done a slimmer version, called Unextended Standard. This version is designed for use with M0116 or M0118 keycaps and the Unextended Standard PCB: https://github.com/4pplet/Unextended-Standard-PCB. Note: The "Standard" version of the case is not 60% and neighter is the Unextended Standard PCB. For a 60% build, use the Unextended V1 or FE and a 60% PCB (like the waffling60 alps or aekiso60).
 
 ## Keyboard Parts:
 - Case
