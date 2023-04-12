@@ -56,4 +56,8 @@ CNCd PC from Gaojie
 ![alt text](./readme-images/FE_PC1.jpg "Mini GB FE")
 ![alt text](./readme-images/FE_PC2.jpg "Mini GB FE")
 
+## Initial proto of Unextended Standard (M0118/M0116 keycaps):
+![alt text](./readme-images/Standard_001.jpg "Initial proto, Standard")
+![alt text](./readme-images/Standard_002.jpg "Initial proto, Standard")
+
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
