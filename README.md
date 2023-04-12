@@ -56,7 +56,8 @@ CNCd PC from Gaojie
 ![alt text](./readme-images/FE_PC1.jpg "Mini GB FE")
 ![alt text](./readme-images/FE_PC2.jpg "Mini GB FE")
 
-## Initial proto of Unextended Standard (M0118/M0116 keycaps):
+## Initial proto of Unextended Standard:
+Modified release for use of M0118 and M0116 keycaps. SLA Print from Gaoije, print from PCBWay also made.
 ![alt text](./readme-images/Standard_001.jpg "Initial proto, Standard")
 ![alt text](./readme-images/Standard_002.jpg "Initial proto, Standard")
 
